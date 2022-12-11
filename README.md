@@ -74,7 +74,7 @@
 
 - [Profile](https://github.com/NehalGund "Nehal Gund")
 - [Linkedin](https://www.linkedin.com/in/nehal-gund/)
-- [Kaggle](https://www.kaggle.com/nehalgund)
+- [Kaggle](https://www.kaggle.com/code/nehalgund/laptop-price-prediction-notebook)
 - [Gmail:](mailto:gundnehal@gmail.com) gundnehal@gmail.com
 
 
