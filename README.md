@@ -75,7 +75,7 @@
 - [Profile](https://github.com/NehalGund "Nehal Gund")
 - [Linkedin](https://www.linkedin.com/in/nehal-gund/)
 - [Kaggle](https://www.kaggle.com/nehalgund)
-- [Gmail](mailto:gundnehal@gmail.com)
+- [Gmail:](mailto:gundnehal@gmail.com) gundnehal@gmail.com
 
 
 # 🤝 Support
