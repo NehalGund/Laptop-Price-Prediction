@@ -2,14 +2,14 @@
 
 <p align="center">:sparkles: :computer: :sparkles:</p>
 
-# Project Description:
+# Project Description
 
 - In this project, a supervised machine learning model is built to predict tentative laptop price based on its specifications.
 - This model is trained on dataset which is taken from [kaggle](https://www.kaggle.com/datasets/aggle6666/laptop-price-prediction-dataset).
 - The dataset contains laptop specifications and corresponding prices.
 - The description of this dataset is as following:
 
-## Dataset Description:
+## Dataset Description
 | Column name      | Description                                                |
 | :----------------| :----------------------------------------------------------|
 | Company          | Laptop manufcturing company names                          |
@@ -27,7 +27,7 @@
 - Scikit-learn library is used to build the machine learning model.
 - Streamlit is used to make a web application that allows users to select the laptop specifications and user gets tentative price of the laptop.
 
-# Prerequisites:
+# Prerequisites
 - numpy
 - pandas
 - matplotlib
@@ -36,7 +36,7 @@
 - pickle
 - streamlit
 
-# Steps to build machine learning model:
+# Steps to build machine learning model
 1. Data preprocessing
 2. EDA
 3. Algorithm selection
@@ -44,7 +44,7 @@
 5. Evaluation
 6. Prediction
 
-# Screenshots:
+# Screenshots
 - **Use the Command Prompt to open the Streamlit app in a browser:**
 
 ![command prompt](https://user-images.githubusercontent.com/108085377/206888662-c587a971-c556-4aa7-b3a7-b9e3f8a3f228.PNG)
