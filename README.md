@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Laptop-Price-Prediction&style=plstic&label=Repository+Views)
+
 <h1 align="center"> Laptop Price Prediction </h1>
 
 <p align="center">:sparkles: :computer: :sparkles:</p>
